@@ -20,8 +20,8 @@ Investigate on the various categories of tools as follows:
 
 Open terminal and try execute some kali linux commands
 ```
-NAME : AMRUTHA VARSHNI BS
-REGISTER NUMBER : 212222040008
+NAME : CHANDRAMOHAN S
+REGISTER NUMBER : 212221223002
 ```
 
 ## EXECUTION STEPS AND ITS OUTPUT:
